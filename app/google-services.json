@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794585551002",
+    "project_id": "cognicue-c0bb9",
+    "storage_bucket": "cognicue-c0bb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794585551002:android:a1c2c95490a4352dc74f23",
+        "android_client_info": {
+          "package_name": "com.example.selfcare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794585551002-epg6796c8r6oqiqgku8pt768t6u77v06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp7SjDZcHrP0q3UqiKS6cmKN7kD3jcuyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794585551002-epg6796c8r6oqiqgku8pt768t6u77v06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
